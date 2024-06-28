@@ -2,4 +2,4 @@ Our Foundations of Reinforcement Learning project: Exploring the Impact of Rewar
 
 We worked with MicroRTS-Py: https://github.com/Farama-Foundation/MicroRTS-Py/tree/master Follow the instructions in this git to install.
 We reinplemented Action guidance (https://github.com/anonymous-research-code/action-guidance) for MicroRTS-Py.
-Our changes can be found in the code folder. To run our code you need to replace the vecenv and then follow the MicroRTS-Py instructions and execute our code instead of ppo_gridnet.py
+Our changes can be found in the code folder. To run our code you need to replace the vec_env.py and then follow the MicroRTS-Py instructions and execute our code instead of ppo_gridnet.py
